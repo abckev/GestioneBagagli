@@ -1,0 +1,13 @@
+C:\Users\kberb\source\repos\Aereoporto\Aereoporto\bin\Debug\netcoreapp3.1\Aeroporto.exe
+C:\Users\kberb\source\repos\Aereoporto\Aereoporto\bin\Debug\netcoreapp3.1\Aeroporto.deps.json
+C:\Users\kberb\source\repos\Aereoporto\Aereoporto\bin\Debug\netcoreapp3.1\Aeroporto.runtimeconfig.json
+C:\Users\kberb\source\repos\Aereoporto\Aereoporto\bin\Debug\netcoreapp3.1\Aeroporto.runtimeconfig.dev.json
+C:\Users\kberb\source\repos\Aereoporto\Aereoporto\bin\Debug\netcoreapp3.1\Aeroporto.dll
+C:\Users\kberb\source\repos\Aereoporto\Aereoporto\bin\Debug\netcoreapp3.1\Aeroporto.pdb
+C:\Users\kberb\source\repos\Aereoporto\Aereoporto\obj\Debug\netcoreapp3.1\Aeroporto.csprojAssemblyReference.cache
+C:\Users\kberb\source\repos\Aereoporto\Aereoporto\obj\Debug\netcoreapp3.1\Aeroporto.csproj.CoreCompileInputs.cache
+C:\Users\kberb\source\repos\Aereoporto\Aereoporto\obj\Debug\netcoreapp3.1\Aeroporto.AssemblyInfoInputs.cache
+C:\Users\kberb\source\repos\Aereoporto\Aereoporto\obj\Debug\netcoreapp3.1\Aeroporto.AssemblyInfo.cs
+C:\Users\kberb\source\repos\Aereoporto\Aereoporto\obj\Debug\netcoreapp3.1\Aeroporto.dll
+C:\Users\kberb\source\repos\Aereoporto\Aereoporto\obj\Debug\netcoreapp3.1\Aeroporto.pdb
+C:\Users\kberb\source\repos\Aereoporto\Aereoporto\obj\Debug\netcoreapp3.1\Aeroporto.genruntimeconfig.cache
